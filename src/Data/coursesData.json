@@ -1,0 +1,1655 @@
+  {
+  "latestCoursesSection": {
+    "title": "Latest Courses"
+  },
+
+  "courses": [
+    {
+      "id": 1,
+      "slug": "spoken-english",
+      "title": "Spoken English Course",
+      "type": "video",
+      "creator": "Huda Jansen",
+
+      "rating": 4.8,
+      "reviews": 3984,
+      "students": 12584,
+
+      "duration": "12 Hours",
+      "totalLessons": 36,
+      "language": "English",
+
+      "shortDescription": "Improve your communication confidently.",
+      "longDescription": "This course helps you speak fluent English with confidence using real-life conversations, grammar basics, speaking practice, tests, and assignments.",
+
+      "features": [
+        "Lifetime access",
+        "Certificate of completion",
+        "Mobile & desktop access",
+        "Beginner friendly",
+        "Self-paced learning",
+        "Video, audio & PDF lessons",
+        "Chapter-wise tests",
+        "Final assessment test",
+        "Instant test results",
+        "Progress tracking",
+        "Real-life practice questions",
+        "Downloadable study materials",
+        "Performance-based feedback"
+      ],
+
+      "offers": [
+        "Live speaking practice sessions",
+        "Daily conversation exercises",
+        "Mock interviews",
+        "Certificate after completion"
+      ],
+      
+      "previewVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+
+
+      "modules": [
+        {
+          "id": 1,
+          "title": "Introduction to English",
+          "lessons": [
+            {
+              "id": 1,
+              "title": "Welcome & Course Overview",
+              "type": "video",
+              "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+              "duration": "10 min"
+            },
+            {
+              "id": 2,
+              "title": "Why English is Important",
+              "type": "audio",
+              "src": "https://www.w3schools.com/html/horse.mp3",
+              "duration": "6 min"
+            },
+            {
+              "id": 3,
+              "title": "Basic English Notes",
+              "type": "pdf",
+              "src": "/pdf/Engineering_Mathematics.pdf"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Grammar Basics",
+          "lessons": [
+            {
+              "id": 4,
+              "title": "Parts of Speech",
+              "type": "video",
+              "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+              "duration": "15 min"
+            },
+            {
+              "id": 5,
+              "title": "Tense Explanation PDF",
+              "type": "pdf",
+              "src": "/pdf/Engineering_Mathematics.pdf"
+            }
+          ]
+        }
+      ],
+
+      "test": {
+        "passPercentage": 60,
+        "questions": [
+  {
+    "id": 1,
+    "question": "English is mainly used for?",
+    "options": [
+      "Cooking",
+      "Communication",
+      "Driving",
+      "None"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "Which skill improves speaking ability?",
+    "options": [
+      "Listening",
+      "Practice",
+      "Sleeping",
+      "Ignoring"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "Which is most important for fluent English?",
+    "options": [
+      "Memorizing words",
+      "Regular practice",
+      "Watching movies only",
+      "Ignoring grammar"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "Which of these helps improve pronunciation?",
+    "options": [
+      "Speaking loudly",
+      "Listening to native speakers",
+      "Writing notes",
+      "Reading silently"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "Which tense is used to talk about daily habits?",
+    "options": [
+      "Past Continuous",
+      "Present Simple",
+      "Future Perfect",
+      "Past Perfect"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "What should you do if you make a mistake while speaking English?",
+    "options": [
+      "Stop speaking",
+      "Continue and correct yourself",
+      "Stay silent",
+      "Switch language"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "Which activity helps build confidence in speaking?",
+    "options": [
+      "Avoiding conversations",
+      "Speaking regularly",
+      "Only reading books",
+      "Only watching videos"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "Which skill is most important for effective communication?",
+    "options": [
+      "Speaking",
+      "Listening",
+      "Writing",
+      "Reading"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "What is the best way to improve vocabulary?",
+    "options": [
+      "Learning random words",
+      "Using new words in sentences",
+      "Ignoring meanings",
+      "Memorizing dictionary"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "question": "Which habit helps in mastering spoken English?",
+    "options": [
+      "Fear of mistakes",
+      "Daily practice",
+      "Avoiding English",
+      "Only grammar study"
+    ],
+    "correctAnswer": 1
+  }
+]
+
+      },
+
+      "certificate": {
+        "available": true,
+        "template": "/certificates/job.jpg"
+      },
+
+      "progressRules": {
+        "lessonCompletionRequired": true,
+        "testRequired": true,
+        "certificateAfterTest": true
+      },
+
+      "instructor": {
+        "name": "Huda Jansen",
+        "role": "Spoken English Trainer",
+        "experience": "7+ Years",
+        "image": "/image/eLearning.jpg"
+      }
+    },
+    {
+    "id": 2,
+    "slug": "soft-skills",
+    "title": "Soft Skills Mastery",
+    "type": "audio",
+    "creator": "Rahul Sharma",
+    "rating": 4.7,
+    "reviews": 2876,
+    "students": 9800,
+    "duration": "10 Hours",
+    "totalLessons": 28,
+    "language": "English",
+    "shortDescription": "Build confidence and personality.",
+    "longDescription": "Develop communication, confidence, and professional behavior.",
+    "features": [
+      "Confidence building",
+      "Interview preparation",
+      "Certificate"
+    ],
+    "offers": ["Mock interviews", "Career guidance"],
+    "previewVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+   "modules": [
+  {
+    "id": 1,
+    "title": "Communication Basics",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "What is Communication",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "12 min"
+      },
+      {
+        "id": 2,
+        "title": "Importance of Communication",
+        "type": "audio",
+        "src": "https://www.w3schools.com/html/horse.mp3",
+        "duration": "8 min"
+      },
+      {
+        "id": 3,
+        "title": "Communication Notes PDF",
+        "type": "pdf",
+        "src": "/pdf/communication-notes.pdf"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Basic Grammar",
+    "lessons": [
+      {
+        "id": 4,
+        "title": "Parts of Speech",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "15 min"
+      },
+      {
+        "id": 5,
+        "title": "Tenses Overview",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "18 min"
+      },
+      {
+        "id": 6,
+        "title": "Grammar Practice PDF",
+        "type": "pdf",
+        "src": "/pdf/grammar-practice.pdf"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Speaking Practice",
+    "lessons": [
+      {
+        "id": 7,
+        "title": "Daily Conversation",
+        "type": "audio",
+        "src": "https://www.w3schools.com/html/horse.mp3",
+        "duration": "10 min"
+      },
+      {
+        "id": 8,
+        "title": "Role Play Session",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "20 min"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Confidence Building",
+    "lessons": [
+      {
+        "id": 9,
+        "title": "Overcoming Fear",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "14 min"
+      },
+      {
+        "id": 10,
+        "title": "Confidence Tips PDF",
+        "type": "pdf",
+        "src": "/pdf/confidence-tips.pdf"
+      }
+    ]
+  }
+]
+,
+    "test": {
+      "passPercentage": 60,
+      "questions": [
+        {
+          "id": 1,
+          "question": "Soft skills help in?",
+          "options": ["Cooking", "Career growth", "Driving", "None"],
+          "correctAnswer": 1
+        }
+      ]
+    },
+    "certificate": {
+      "available": true,
+      "template": "/certificates/soft-skills.png"
+    },
+    "progressRules": {
+      "lessonCompletionRequired": true,
+      "testRequired": true,
+      "certificateAfterTest": true
+    },
+    "instructor": {
+      "name": "Rahul Sharma",
+      "role": "Soft Skills Coach",
+      "experience": "6+ Years",
+      "image": "/image/eLearning.jpg"
+    }
+  },
+
+  {
+    "id": 3,
+    "slug": "job-interview-mastery",
+    "title": "Job Interview Mastery",
+    "type": "book",
+    "creator": "Amit Singh",
+    "rating": 4.6,
+    "reviews": 1902,
+    "students": 7600,
+    "duration": "8 Hours",
+    "totalLessons": 22,
+    "language": "English",
+    "shortDescription": "Crack interviews with confidence.",
+    "longDescription": "Learn HR questions, resume building, and mock interviews.",
+    "features": ["HR questions", "Mock interviews", "Certificate"],
+    "offers": ["Resume templates"],
+    "previewVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "modules": [
+  {
+    "id": 1,
+    "title": "Interview Basics",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "HR Interview Introduction",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "15 min"
+      },
+      {
+        "id": 2,
+        "title": "Why Companies Take Interviews",
+        "type": "audio",
+        "src": "https://www.w3schools.com/html/horse.mp3",
+        "duration": "8 min"
+      },
+      {
+        "id": 3,
+        "title": "Interview Preparation Notes",
+        "type": "pdf",
+        "src": "/pdf/interview-basics.pdf"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "HR Interview Questions",
+    "lessons": [
+      {
+        "id": 4,
+        "title": "Tell Me About Yourself",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "12 min"
+      },
+      {
+        "id": 5,
+        "title": "Strengths and Weaknesses",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "14 min"
+      },
+      {
+        "id": 6,
+        "title": "HR Interview Practice PDF",
+        "type": "pdf",
+        "src": "/pdf/hr-questions.pdf"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Technical Interview Basics",
+    "lessons": [
+      {
+        "id": 7,
+        "title": "Technical Round Overview",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "18 min"
+      },
+      {
+        "id": 8,
+        "title": "Common Technical Questions",
+        "type": "audio",
+        "src": "https://www.w3schools.com/html/horse.mp3",
+        "duration": "10 min"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Mock Interview Practice",
+    "lessons": [
+      {
+        "id": 9,
+        "title": "Mock HR Interview",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "20 min"
+      },
+      {
+        "id": 10,
+        "title": "Mock Technical Interview",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "22 min"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Final Tips & Guidance",
+    "lessons": [
+      {
+        "id": 11,
+        "title": "Do's and Don'ts in Interview",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "10 min"
+      },
+      {
+        "id": 12,
+        "title": "Final Interview Checklist PDF",
+        "type": "pdf",
+        "src": "/pdf/interview-checklist.pdf"
+      }
+    ]
+  }
+]
+,
+    "test": {
+      "passPercentage": 60,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is HR interview?",
+          "options": ["Technical", "Behavioral", "Driving", "None"],
+          "correctAnswer": 1
+        }
+      ]
+    },
+    "certificate": {
+      "available": true,
+      "template": "/certificates/job-interview.png"
+    },
+    "progressRules": {
+      "lessonCompletionRequired": true,
+      "testRequired": true,
+      "certificateAfterTest": true
+    },
+    "instructor": {
+      "name": "Amit Singh",
+      "role": "Career Coach",
+      "experience": "8+ Years",
+      "image": "/image/eLearning.jpg"
+    }
+  },
+
+  {
+    "id": 4,
+    "slug": "public-speaking",
+    "title": "Public Speaking Mastery",
+    "type": "book",
+    "creator": "Huda Jansen",
+    "rating": 4.9,
+    "reviews": 3100,
+    "students": 11200,
+    "duration": "7 Hours",
+    "totalLessons": 18,
+    "language": "English",
+    "shortDescription": "Speak confidently in public.",
+    "longDescription": "Overcome stage fear and improve presentation skills.",
+    "features": ["Stage confidence", "Speech practice"],
+    "offers": ["Live practice"],
+    "previewVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+   "modules": [
+  {
+    "id": 1,
+    "title": "Stage Confidence",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Overcoming Stage Fear",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "14 min"
+      },
+      {
+        "id": 2,
+        "title": "Understanding Stage Anxiety",
+        "type": "audio",
+        "src": "https://www.w3schools.com/html/horse.mp3",
+        "duration": "9 min"
+      },
+      {
+        "id": 3,
+        "title": "Stage Fear Notes PDF",
+        "type": "pdf",
+        "src": "/pdf/stage-fear-notes.pdf"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Body Language on Stage",
+    "lessons": [
+      {
+        "id": 4,
+        "title": "Positive Body Posture",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "12 min"
+      },
+      {
+        "id": 5,
+        "title": "Hand & Eye Movement",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "10 min"
+      },
+      {
+        "id": 6,
+        "title": "Body Language Practice PDF",
+        "type": "pdf",
+        "src": "/pdf/body-language.pdf"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Voice & Tone Control",
+    "lessons": [
+      {
+        "id": 7,
+        "title": "Voice Modulation Basics",
+        "type": "audio",
+        "src": "https://www.w3schools.com/html/horse.mp3",
+        "duration": "11 min"
+      },
+      {
+        "id": 8,
+        "title": "Speaking Clearly on Stage",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "15 min"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Audience Handling",
+    "lessons": [
+      {
+        "id": 9,
+        "title": "Connecting with Audience",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "13 min"
+      },
+      {
+        "id": 10,
+        "title": "Handling Questions Confidently",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "16 min"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Final Practice Session",
+    "lessons": [
+      {
+        "id": 11,
+        "title": "Mock Stage Presentation",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "20 min"
+      },
+      {
+        "id": 12,
+        "title": "Stage Confidence Checklist PDF",
+        "type": "pdf",
+        "src": "/pdf/stage-confidence-checklist.pdf"
+      }
+    ]
+  }
+]
+,
+    "test": {
+      "passPercentage": 60,
+      "questions": [
+        {
+          "id": 1,
+          "question": "Public speaking helps in?",
+          "options": ["Fear", "Confidence", "Driving", "None"],
+          "correctAnswer": 1
+        }
+      ]
+    },
+    "certificate": {
+      "available": true,
+      "template": "/certificates/public-speaking.png"
+    },
+    "progressRules": {
+      "lessonCompletionRequired": true,
+      "testRequired": true,
+      "certificateAfterTest": true
+    },
+    "instructor": {
+      "name": "Huda Jansen",
+      "role": "Public Speaking Trainer",
+      "experience": "7+ Years",
+      "image": "/image/eLearning.jpg"
+    }
+  },
+  {
+  "id": 5,
+  "slug": "english-grammar",
+  "title": "English Grammar Foundation",
+  "type": "audio",
+  "creator": "Amit Singh",
+  "rating": 4.5,
+  "reviews": 1400,
+  "students": 5300,
+  "duration": "10 Hours",
+  "totalLessons": 40,
+  "language": "English",
+  "shortDescription": "Strong grammar basics for beginners.",
+  "longDescription": "Learn tenses, sentence structure, and grammar rules step by step.",
+  "features": [
+    "Beginner friendly",
+    "Grammar practice",
+    "PDF notes",
+    "Tests included"
+  ],
+  "offers": ["Practice worksheets", "Certificate"],
+  "previewVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+  "modules": [
+  {
+    "id": 1,
+    "title": "Grammar Basics",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Introduction to Grammar",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "12 min"
+      },
+      {
+        "id": 2,
+        "title": "Why Grammar is Important",
+        "type": "audio",
+        "src": "https://www.w3schools.com/html/horse.mp3",
+        "duration": "8 min"
+      },
+      {
+        "id": 3,
+        "title": "Grammar Notes PDF",
+        "type": "pdf",
+        "src": "/pdf/grammar-notes.pdf"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Parts of Speech",
+    "lessons": [
+      {
+        "id": 4,
+        "title": "Noun and Pronoun",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "14 min"
+      },
+      {
+        "id": 5,
+        "title": "Verb and Adverb",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "15 min"
+      },
+      {
+        "id": 6,
+        "title": "Adjective and Preposition",
+        "type": "audio",
+        "src": "https://www.w3schools.com/html/horse.mp3",
+        "duration": "10 min"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Tenses",
+    "lessons": [
+      {
+        "id": 7,
+        "title": "Present Tense",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "16 min"
+      },
+      {
+        "id": 8,
+        "title": "Past Tense",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "15 min"
+      },
+      {
+        "id": 9,
+        "title": "Future Tense PDF",
+        "type": "pdf",
+        "src": "/pdf/future-tense.pdf"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Sentence Structure",
+    "lessons": [
+      {
+        "id": 10,
+        "title": "Simple Sentences",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "13 min"
+      },
+      {
+        "id": 11,
+        "title": "Complex Sentences",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "17 min"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Grammar Practice",
+    "lessons": [
+      {
+        "id": 12,
+        "title": "Daily Grammar Exercises",
+        "type": "audio",
+        "src": "https://www.w3schools.com/html/horse.mp3",
+        "duration": "10 min"
+      },
+      {
+        "id": 13,
+        "title": "Grammar Practice PDF",
+        "type": "pdf",
+        "src": "/pdf/grammar-practice.pdf"
+      }
+    ]
+  }
+]
+,
+  "test": {
+    "passPercentage": 60,
+    "questions": [
+      {
+        "id": 1,
+        "question": "Grammar helps in?",
+        "options": ["Speaking", "Cooking", "Driving", "None"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  "certificate": {
+    "available": true,
+    "template": "/certificates/grammar.png"
+  },
+  "progressRules": {
+    "lessonCompletionRequired": true,
+    "testRequired": true,
+    "certificateAfterTest": true
+  },
+  "instructor": {
+    "name": "Amit Singh",
+    "role": "Grammar Expert",
+    "experience": "8+ Years",
+    "image": "/image/eLearning.jpg"
+  }
+},
+
+{
+  "id": 6,
+  "slug": "business-communication",
+  "title": "Business Communication",
+  "type": "video",
+  "creator": "Rahul Sharma",
+  "rating": 4.6,
+  "reviews": 1750,
+  "students": 6200,
+  "duration": "6 Hours",
+  "totalLessons": 16,
+  "language": "English",
+  "shortDescription": "Professional workplace communication.",
+  "longDescription": "Learn email writing, meetings, and corporate communication skills.",
+  "features": ["Corporate emails", "Meeting skills"],
+  "offers": ["Professional certificate"],
+  "previewVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+  "modules": [
+  {
+    "id": 1,
+    "title": "Workplace Communication",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Email Writing Basics",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "10 min"
+      },
+      {
+        "id": 2,
+        "title": "Professional Email Format",
+        "type": "audio",
+        "src": "https://www.w3schools.com/html/horse.mp3",
+        "duration": "7 min"
+      },
+      {
+        "id": 3,
+        "title": "Email Writing Notes PDF",
+        "type": "pdf",
+        "src": "/pdf/email-writing.pdf"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Office Conversations",
+    "lessons": [
+      {
+        "id": 4,
+        "title": "Talking with Colleagues",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "12 min"
+      },
+      {
+        "id": 5,
+        "title": "Speaking with Seniors",
+        "type": "audio",
+        "src": "https://www.w3schools.com/html/horse.mp3",
+        "duration": "9 min"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Meetings Communication",
+    "lessons": [
+      {
+        "id": 6,
+        "title": "Participating in Meetings",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "14 min"
+      },
+      {
+        "id": 7,
+        "title": "Presenting Your Ideas",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "16 min"
+      },
+      {
+        "id": 8,
+        "title": "Meeting Notes PDF",
+        "type": "pdf",
+        "src": "/pdf/meeting-notes.pdf"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Telephone Communication",
+    "lessons": [
+      {
+        "id": 9,
+        "title": "Office Call Etiquette",
+        "type": "audio",
+        "src": "https://www.w3schools.com/html/horse.mp3",
+        "duration": "8 min"
+      },
+      {
+        "id": 10,
+        "title": "Handling Client Calls",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "13 min"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Professional Writing",
+    "lessons": [
+      {
+        "id": 11,
+        "title": "Report Writing Basics",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "15 min"
+      },
+      {
+        "id": 12,
+        "title": "Professional Writing Checklist PDF",
+        "type": "pdf",
+        "src": "/pdf/professional-writing.pdf"
+      }
+    ]
+  }
+]
+,
+  "test": {
+    "passPercentage": 60,
+    "questions": [
+      {
+        "id": 1,
+        "question": "Business communication is used for?",
+        "options": ["Fun", "Professional work", "Driving", "None"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  "certificate": {
+    "available": true,
+    "template": "/certificates/business.png"
+  },
+  "progressRules": {
+    "lessonCompletionRequired": true,
+    "testRequired": true,
+    "certificateAfterTest": true
+  },
+  "instructor": {
+    "name": "Rahul Sharma",
+    "role": "Corporate Trainer",
+    "experience": "6+ Years",
+    "image": "/image/eLearning.jpg"
+  }
+},
+
+{
+  "id": 7,
+  "slug": "confidence-building",
+  "title": "Confidence Building Program",
+  "type": "book",
+  "creator": "Amit Singh",
+  "rating": 4.8,
+  "reviews": 2100,
+  "students": 8900,
+  "duration": "7 Hours",
+  "totalLessons": 24,
+  "language": "English",
+  "shortDescription": "Boost confidence in daily life.",
+  "longDescription": "Develop self-confidence and positive mindset.",
+  "features": ["Mindset training", "Confidence exercises"],
+  "offers": ["Motivation sessions"],
+  "previewVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+ "modules": [
+  {
+    "id": 1,
+    "title": "Confidence Basics",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Understanding Confidence",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "11 min"
+      },
+      {
+        "id": 2,
+        "title": "Why Confidence Matters",
+        "type": "audio",
+        "src": "https://www.w3schools.com/html/horse.mp3",
+        "duration": "7 min"
+      },
+      {
+        "id": 3,
+        "title": "Confidence Notes PDF",
+        "type": "pdf",
+        "src": "/pdf/confidence-notes.pdf"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Self-Belief",
+    "lessons": [
+      {
+        "id": 4,
+        "title": "Building Self-Belief",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "14 min"
+      },
+      {
+        "id": 5,
+        "title": "Positive Thinking Habits",
+        "type": "audio",
+        "src": "https://www.w3schools.com/html/horse.mp3",
+        "duration": "9 min"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Overcoming Fear",
+    "lessons": [
+      {
+        "id": 6,
+        "title": "Handling Fear of Failure",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "13 min"
+      },
+      {
+        "id": 7,
+        "title": "Fear Management PDF",
+        "type": "pdf",
+        "src": "/pdf/fear-management.pdf"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Communication Confidence",
+    "lessons": [
+      {
+        "id": 8,
+        "title": "Speaking with Confidence",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "15 min"
+      },
+      {
+        "id": 9,
+        "title": "Voice Confidence Practice",
+        "type": "audio",
+        "src": "https://www.w3schools.com/html/horse.mp3",
+        "duration": "10 min"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Daily Confidence Practice",
+    "lessons": [
+      {
+        "id": 10,
+        "title": "Morning Confidence Routine",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "12 min"
+      },
+      {
+        "id": 11,
+        "title": "Confidence Checklist PDF",
+        "type": "pdf",
+        "src": "/pdf/confidence-checklist.pdf"
+      }
+    ]
+  }
+]
+,
+  "test": {
+    "passPercentage": 60,
+    "questions": [
+      {
+        "id": 1,
+        "question": "Confidence helps in?",
+        "options": ["Fear", "Success", "Sleep", "None"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  "certificate": {
+    "available": true,
+    "template": "/certificates/confidence.png"
+  },
+  "progressRules": {
+    "lessonCompletionRequired": true,
+    "testRequired": true,
+    "certificateAfterTest": true
+  },
+  "instructor": {
+    "name": "Amit Singh",
+    "role": "Motivational Coach",
+    "experience": "7+ Years",
+    "image": "/image/eLearning.jpg"
+  }
+},
+
+{
+  "id": 8,
+  "slug": "leadership-skills",
+  "title": "Leadership Skills",
+  "type": "video",
+  "creator": "Priya Verma",
+  "rating": 4.7,
+  "reviews": 1680,
+  "students": 6900,
+  "duration": "8 Hours",
+  "totalLessons": 20,
+  "language": "English",
+  "shortDescription": "Become a confident leader.",
+  "longDescription": "Learn leadership mindset and team management.",
+  "features": ["Leadership mindset", "Team handling"],
+  "offers": ["Leadership certificate"],
+  "previewVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+ "modules": [
+  {
+    "id": 1,
+    "title": "Leadership Basics",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "What is Leadership?",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "13 min"
+      },
+      {
+        "id": 2,
+        "title": "Importance of Leadership",
+        "type": "audio",
+        "src": "https://www.w3schools.com/html/horse.mp3",
+        "duration": "9 min"
+      },
+      {
+        "id": 3,
+        "title": "Leadership Notes PDF",
+        "type": "pdf",
+        "src": "/pdf/leadership-notes.pdf"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Leadership Qualities",
+    "lessons": [
+      {
+        "id": 4,
+        "title": "Key Qualities of a Leader",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "15 min"
+      },
+      {
+        "id": 5,
+        "title": "Developing Leadership Skills",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "14 min"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Team Management",
+    "lessons": [
+      {
+        "id": 6,
+        "title": "Managing a Team Effectively",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "16 min"
+      },
+      {
+        "id": 7,
+        "title": "Motivating Team Members",
+        "type": "audio",
+        "src": "https://www.w3schools.com/html/horse.mp3",
+        "duration": "10 min"
+      },
+      {
+        "id": 8,
+        "title": "Team Management PDF",
+        "type": "pdf",
+        "src": "/pdf/team-management.pdf"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Decision Making",
+    "lessons": [
+      {
+        "id": 9,
+        "title": "Decision Making Skills",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "14 min"
+      },
+      {
+        "id": 10,
+        "title": "Problem Solving Techniques",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "17 min"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Leadership in Practice",
+    "lessons": [
+      {
+        "id": 11,
+        "title": "Real Life Leadership Examples",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "18 min"
+      },
+      {
+        "id": 12,
+        "title": "Leadership Practice Checklist PDF",
+        "type": "pdf",
+        "src": "/pdf/leadership-checklist.pdf"
+      }
+    ]
+  }
+]
+,
+  "test": {
+    "passPercentage": 60,
+    "questions": [
+      {
+        "id": 1,
+        "question": "Leader's main role?",
+        "options": ["Guide team", "Sleep", "Run away", "None"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  "certificate": {
+    "available": true,
+    "template": "/certificates/leadership.png"
+  },
+  "progressRules": {
+    "lessonCompletionRequired": true,
+    "testRequired": true,
+    "certificateAfterTest": true
+  },
+  "instructor": {
+    "name": "Priya Verma",
+    "role": "Leadership Coach",
+    "experience": "6+ Years",
+    "image": "/image/eLearning.jpg"
+  }
+},
+
+{
+  "id": 9,
+  "slug": "communication-for-students",
+  "title": "Communication Skills for Students",
+  "type": "video",
+  "creator": "Rahul Sharma",
+  "rating": 4.6,
+  "reviews": 1200,
+  "students": 4800,
+  "duration": "6 Hours",
+  "totalLessons": 15,
+  "language": "English",
+  "shortDescription": "Communication for academic success.",
+  "longDescription": "Improve speaking and presentation skills for students.",
+  "features": ["Student friendly", "Easy language"],
+  "offers": ["Practice sessions"],
+  "previewVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+ "modules": [
+  {
+    "id": 1,
+    "title": "Student Communication",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Basic Speaking Skills",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "9 min"
+      },
+      {
+        "id": 2,
+        "title": "Importance of Communication",
+        "type": "audio",
+        "src": "https://www.w3schools.com/html/horse.mp3",
+        "duration": "7 min"
+      },
+      {
+        "id": 3,
+        "title": "Communication Notes PDF",
+        "type": "pdf",
+        "src": "/pdf/student-communication-notes.pdf"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Classroom Interaction",
+    "lessons": [
+      {
+        "id": 4,
+        "title": "Asking Questions in Class",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "11 min"
+      },
+      {
+        "id": 5,
+        "title": "Answering Confidently",
+        "type": "audio",
+        "src": "https://www.w3schools.com/html/horse.mp3",
+        "duration": "8 min"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Group Discussion",
+    "lessons": [
+      {
+        "id": 6,
+        "title": "Participating in Group Discussion",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "13 min"
+      },
+      {
+        "id": 7,
+        "title": "Listening to Others",
+        "type": "audio",
+        "src": "https://www.w3schools.com/html/horse.mp3",
+        "duration": "9 min"
+      },
+      {
+        "id": 8,
+        "title": "Group Discussion Tips PDF",
+        "type": "pdf",
+        "src": "/pdf/group-discussion-tips.pdf"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Presentation Skills",
+    "lessons": [
+      {
+        "id": 9,
+        "title": "Preparing a Presentation",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "14 min"
+      },
+      {
+        "id": 10,
+        "title": "Delivering with Confidence",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "15 min"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Daily Practice",
+    "lessons": [
+      {
+        "id": 11,
+        "title": "Daily Speaking Routine",
+        "type": "audio",
+        "src": "https://www.w3schools.com/html/horse.mp3",
+        "duration": "10 min"
+      },
+      {
+        "id": 12,
+        "title": "Student Communication Checklist PDF",
+        "type": "pdf",
+        "src": "/pdf/student-communication-checklist.pdf"
+      }
+    ]
+  }
+]
+,
+  "test": {
+    "passPercentage": 60,
+    "questions": [
+      {
+        "id": 1,
+        "question": "Communication helps students in?",
+        "options": ["Marks", "Confidence", "Sleep", "None"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  "certificate": {
+    "available": true,
+    "template": "/certificates/student-communication.png"
+  },
+  "progressRules": {
+    "lessonCompletionRequired": true,
+    "testRequired": true,
+    "certificateAfterTest": true
+  },
+  "instructor": {
+    "name": "Rahul Sharma",
+    "role": "Student Mentor",
+    "experience": "5+ Years",
+    "image": "/image/eLearning.jpg"
+  }
+},
+
+{
+  "id": 10,
+  "slug": "personality-development",
+  "title": "Personality Development",
+  "type": "video",
+  "creator": "Priya Verma",
+  "rating": 4.7,
+  "reviews": 2150,
+  "students": 8400,
+  "duration": "9 Hours",
+  "totalLessons": 30,
+  "language": "English",
+  "shortDescription": "Improve personality and self-image.",
+  "longDescription": "Enhance confidence, communication, and mindset.",
+  "features": ["Positive mindset", "Confidence"],
+  "offers": ["Self improvement certificate"],
+  "previewVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+  "modules": [
+  {
+    "id": 1,
+    "title": "Personality Basics",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Self Awareness",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "14 min"
+      },
+      {
+        "id": 2,
+        "title": "Understanding Your Personality",
+        "type": "audio",
+        "src": "https://www.w3schools.com/html/horse.mp3",
+        "duration": "9 min"
+      },
+      {
+        "id": 3,
+        "title": "Personality Basics Notes PDF",
+        "type": "pdf",
+        "src": "/pdf/personality-basics.pdf"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Positive Attitude",
+    "lessons": [
+      {
+        "id": 4,
+        "title": "Building Positive Thinking",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "15 min"
+      },
+      {
+        "id": 5,
+        "title": "Daily Motivation Practice",
+        "type": "audio",
+        "src": "https://www.w3schools.com/html/horse.mp3",
+        "duration": "10 min"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Confidence & Personality",
+    "lessons": [
+      {
+        "id": 6,
+        "title": "Confidence in Personality",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "13 min"
+      },
+      {
+        "id": 7,
+        "title": "Handling Self-Doubt",
+        "type": "audio",
+        "src": "https://www.w3schools.com/html/horse.mp3",
+        "duration": "9 min"
+      },
+      {
+        "id": 8,
+        "title": "Self-Doubt Notes PDF",
+        "type": "pdf",
+        "src": "/pdf/self-doubt.pdf"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Social Personality",
+    "lessons": [
+      {
+        "id": 9,
+        "title": "Communicating with Others",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "14 min"
+      },
+      {
+        "id": 10,
+        "title": "Making Positive Impression",
+        "type": "video",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "duration": "16 min"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Daily Personality Practice",
+    "lessons": [
+      {
+        "id": 11,
+        "title": "Morning Personality Routine",
+        "type": "audio",
+        "src": "https://www.w3schools.com/html/horse.mp3",
+        "duration": "8 min"
+      },
+      {
+        "id": 12,
+        "title": "Personality Improvement Checklist PDF",
+        "type": "pdf",
+        "src": "/pdf/personality-checklist.pdf"
+      }
+    ]
+  }
+]
+,
+  "test": {
+    "passPercentage": 60,
+    "questions": [
+      {
+        "id": 1,
+        "question": "Personality includes?",
+        "options": ["Behavior", "Driving", "Cooking", "None"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  "certificate": {
+    "available": true,
+    "template": "/certificates/personality.png"
+  },
+  "progressRules": {
+    "lessonCompletionRequired": true,
+    "testRequired": true,
+    "certificateAfterTest": true
+  },
+  "instructor": {
+    "name": "Priya Verma",
+    "role": "Personality Coach",
+    "experience": "6+ Years",
+    "image": "/image/eLearning.jpg"
+  }
+}
+
+
+  ]
+}

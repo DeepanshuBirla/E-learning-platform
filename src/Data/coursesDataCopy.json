@@ -1,0 +1,136 @@
+{
+  "latestCoursesSection": {
+    "title": "Latest Courses"
+  },
+  "courses": [
+    {
+      "id": 1,
+      "slug": "spoken-english",
+      "title": "Spoken English Course",
+      "creator": "Huda Jansen",
+      "rating": 4.8,
+      "reviews": 3984,
+      "students": 12584,
+      "duration": "12 Hours",
+      "totalLessons": 36,
+      "language": "English",
+      "shortDescription": "Improve your communication confidently.",
+      "longDescription": "Learn English using videos, audio, PDFs, tests and practice.",
+      "features": [
+        "Lifetime access",
+        "Certificate",
+        "Video + Audio + PDF",
+        "Tests & Progress tracking"
+      ],
+      "modules": [
+        {
+          "id": "se-m1",
+          "title": "Introduction to English",
+          "lessons": [
+            {
+              "id": "se-l1",
+              "title": "Course Overview",
+              "type": "video",
+              "src": "https://www.w3schools.com/html/mov_bbb.mp4"
+            },
+            {
+              "id": "se-l2",
+              "title": "Why English Matters",
+              "type": "audio",
+              "src": "https://www.w3schools.com/html/horse.mp3"
+            }
+          ]
+        }
+      ],
+      "instructor": {
+        "name": "Huda Jansen",
+        "role": "Spoken English Trainer",
+        "image": "/image/eLearning.jpg"
+      }
+    },
+
+    {
+      "id": 2,
+      "slug": "soft-skills",
+      "title": "Soft Skills Mastery",
+      "creator": "Rahul Sharma",
+      "rating": 4.7,
+      "reviews": 2876,
+      "students": 9800,
+      "duration": "10 Hours",
+      "totalLessons": 28,
+      "language": "English",
+      "shortDescription": "Build confidence & personality.",
+      "longDescription": "Learn communication, confidence and interview skills.",
+      "features": [
+        "Confidence building",
+        "Mock interviews",
+        "Certificate"
+      ],
+      "modules": [
+        {
+          "id": "ss-m1",
+          "title": "Communication Basics",
+          "lessons": [
+            {
+              "id": "ss-l1",
+              "title": "What is Communication",
+              "type": "video",
+              "src": "https://www.w3schools.com/html/mov_bbb.mp4"
+            },
+            {
+              "id": "ss-l2",
+              "title": "Communication Notes",
+              "type": "pdf",
+              "src": "/pdfs/communication.pdf"
+            }
+          ]
+        }
+      ],
+      "instructor": {
+        "name": "Rahul Sharma",
+        "role": "Soft Skills Coach",
+        "image": "/image/eLearning.jpg"
+      }
+    },
+
+    {
+      "id": 3,
+      "slug": "job-interview-mastery",
+      "title": "Job Interview Mastery",
+      "creator": "Amit Singh",
+      "rating": 4.6,
+      "reviews": 1902,
+      "students": 7600,
+      "duration": "8 Hours",
+      "totalLessons": 22,
+      "language": "English",
+      "shortDescription": "Crack interviews with confidence.",
+      "longDescription": "Prepare HR questions, resume & mock interviews.",
+      "features": [
+        "HR questions",
+        "Mock interviews",
+        "Certificate"
+      ],
+      "modules": [
+        {
+          "id": "ji-m1",
+          "title": "Interview Preparation",
+          "lessons": [
+            {
+              "id": "ji-l1",
+              "title": "HR Interview Basics",
+              "type": "video",
+              "src": "https://www.w3schools.com/html/mov_bbb.mp4"
+            }
+          ]
+        }
+      ],
+      "instructor": {
+        "name": "Amit Singh",
+        "role": "Career Coach",
+        "image": "/image/eLearning.jpg"
+      }
+    }
+  ]
+}

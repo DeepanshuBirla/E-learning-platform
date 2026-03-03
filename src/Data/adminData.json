@@ -1,0 +1,29 @@
+{
+  "admin": {
+    "name": "Admin User",
+    "email": "admin@elearn.com",
+    "role": "super-admin"
+  },
+
+  "permissions": {
+    "manageCourses": true,
+    "manageAffiliates": true,
+    "approveWithdrawals": true,
+    "viewReports": true
+  },
+
+  "stats": {
+    "totalStudents": 12450,
+    "totalCourses": 12,
+    "totalAffiliates": 320,
+    "totalRevenue": 845000
+  },
+
+  "pendingWithdrawals": [
+    {
+      "affiliateId": "EWL28476730",
+      "amount": 840,
+      "requestedOn": "2025-02-12"
+    }
+  ]
+}

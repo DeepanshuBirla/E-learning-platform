@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "name": "Rahul Kumar",
+  "email": "Ashu@gmail.com",
+  "phone": "8969823422",
+  "joinedOn": "12 Jan 2024",
+  "status": "Active",
+  "profileImage1": "https://ui-avatars.com/api/?name=Rahul+Kumar&background=ffffff&color=6366f1",
+  "profileImage": "/image/eLearning.jpg",
+  "courses": {
+    "enrolled": 3,
+    "completed": 1,
+    "inProgress": 2
+  }
+}

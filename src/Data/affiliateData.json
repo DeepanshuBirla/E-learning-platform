@@ -1,0 +1,51 @@
+{
+  "affiliate": {
+    "id": "EWL28476730",
+    "name": "Test User",
+    "email": "testuser@gmail.com",
+    "phone": "9876543210",
+    "status": "active"
+  },
+
+  "dashboardStats": {
+    "totalPurchased": 0,
+    "readyToClaim": 0,
+    "claimPending": 0,
+    "claimApproved": 0
+  },
+
+  "courses": [
+    {
+      "id": 23,
+      "title": "Free Sample Videos",
+      "price": 0,
+      "duration": "0 days",
+      "slug": "free-sample-videos",
+      "image": "https://app.easywaylearn.in/uploads/courses/thumbnails/23_Image.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Ultimate Spoken English (1 Month)",
+      "price": 599,
+      "duration": "30 days",
+      "slug": "ultimate-spoken-english-1-month",
+      "image": "https://app.easywaylearn.in/uploads/courses/thumbnails/25_Image.jpg"
+    }
+  ],
+
+  "withdrawalRules": {
+    "minimumClaimQty": 2,
+    "commissionPercentage": 35,
+    "supportEmail": "info@easywaylearn.in"
+  },
+
+  "reports": [
+    {
+      "date": "2025-02-10",
+      "course": "Spoken English Course",
+      "student": "Rahul Kumar",
+      "amount": 210,
+      "status": "Y"
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "hero": {
+    "title": "Grow Your Skills with Online Learning",
+    "subtitle": "Learn Professional Skills, Spoken English, Soft Skills & Personality Development — anytime, anywhere.",
+    "primaryButton": {
+      "label": "Get Started",
+      "action": "/get-started"
+    },
+    "secondaryButton": {
+      "label": "Demo Class",
+      "action": "/demo-class"
+    },
+    "image": {
+      "src": "/image/job.jpg",
+      "alt": "eLearning"
+    }
+  },
+  "instructorsSection": {
+    "title": "Meet Our Instructors",
+    "autoplayDelay": 2000,
+    "breakpoints": {
+      "640": { "slidesPerView": 2 },
+      "1024": { "slidesPerView": 4 }
+    },
+    "items": [
+      {
+        "name": "Rahul Sharma",
+        "role": "Spoken English Trainer",
+        "description": "Expert in English communication with 5+ years experience.",
+        "image": "/image/eLearning.jpg"
+      },
+      {
+        "name": "Priya Verma",
+        "role": "Soft Skills Mentor",
+        "description": "Specialist in personality development and career growth.",
+        "image": "/image/eLearning.jpg"
+
+      },
+      {
+        "name": "Amit Singh",
+        "role": "Motivational Coach",
+        "description": "Inspires students with powerful coaching sessions.",
+        "image": "/image/eLearning.jpg"
+
+      },
+      {
+        "name": "Amit2 Singh",
+        "role": "Motivational Coach",
+        "description": "Inspires students with powerful coaching sessions.",
+        "image": "/image/eLearning.jpg"
+
+      },
+      {
+        "name": "Amit3 Singh",
+        "role": "Motivational Coach",
+        "description": "Inspires students with powerful coaching sessions.",
+        "image": "/image/eLearning.jpg"
+
+      },
+      {
+        "name": "Amit4 Singh",
+        "role": "Motivational Coach",
+        "description": "Inspires students with powerful coaching sessions.",
+        "image": "/image/eLearning.jpg"
+
+      }
+    ]
+  },
+  "latestCoursesSection": {
+    "title": "Latest Courses",
+    "items": [
+      {
+        "title": "Advanced Spoken English",
+        "description": "Improve fluency, accent, and confidence with advanced lessons.",
+        "ctaLabel": "Enroll Now",
+        "ctaLabel2": "View Course",
+        "slug": "spoken-english",
+        "imagePlaceholder": false,
+        "image": "/image/spoken.jpg"
+      },
+      {
+        "title": "Personality Development",
+        "description": "Learn communication, confidence-building & soft skills.",
+        "ctaLabel": "Enroll Now",
+        "ctaLabel2": "View Course",
+        "slug": "soft-skills",
+        "imagePlaceholder": false,
+        "image": "/image/personal.jpg"
+      },
+      {
+        "title": "Job Interview Mastery",
+        "description": "Prepare for interviews with mock sessions and real questions.",
+        "ctaLabel": "Enroll Now",
+        "ctaLabel2": "View Course",
+        "slug": "job-interview-mastery",
+        "imagePlaceholder": false,
+        "image": "/image/job.jpg"
+      }
+    ]
+  },
+  "whyChooseSection": {
+    "title": "Why Choose eLearn?",
+    "items": [
+      {
+        "title": "Expert Instructors",
+        "description": "Learn from certified mentors and industry experts."
+      },
+      {
+        "title": "Structured Courses",
+        "description": "Well-designed modules with step-by-step learning."
+      },
+      {
+        "title": "Certificates",
+        "description": "Get certificates after completing your course."
+      }
+    ]
+  },
+  "popularCoursesSection": {
+    "title": "Popular Courses",
+    "items": [
+      {
+        "title": "Spoken English Course",
+        "slug": "spoken-english",
+        "description": "Improve your communication confidently.",
+        "ctaLabel": "View Course",
+        "ctaLabel2": "View Course",
+        "image": "/image/job.jpg",
+        "imagePlaceholder": false
+      },
+      {
+        "title": "Soft Skills Mastery",
+        "slug": "soft-skills",
+        "description": "Develop personality & career skills.",
+        "ctaLabel": "View Course",
+        "ctaLabel2": "View Course",
+        "image": "/image/personal.jpg",
+        "imagePlaceholder": false
+      },
+      {
+        "title": "Free Demo Classes",
+        "description": "Try our demo lessons before enrolling.",
+        "ctaLabel": "View Course",
+        "ctaLabel2": "View Course",
+        "image": "/image/spoken.jpg",
+        "imagePlaceholder": false
+      }
+    ]
+  },
+  "howItWorksSection": {
+    "title": "How Learning Works",
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "Register",
+        "description": "Sign up with your name, mobile & email."
+      },
+      {
+        "stepNumber": 2,
+        "title": "Enroll",
+        "description": "Choose your favorite course."
+      },
+      {
+        "stepNumber": 3,
+        "title": "Learn",
+        "description": "Watch videos, read notes & take tests."
+      },
+      {
+        "stepNumber": 4,
+        "title": "Get Certificate",
+        "description": "Receive your achievement certificate."
+      }
+    ]
+  },
+  "affiliateSection": {
+    "title": "Earn Money as an Affiliate",
+    "description": "Share your referral link and earn up to 30% commission on every course sale.",
+    "ctaLabel": "Become an Affiliate",
+    "ctaAction": "/affiliate"
+  },
+"courses": [
+  {
+    "id": 1,
+    "slug": "spoken-english",
+    "title": "Spoken English Course",
+    "creator": "Huda Jansen",
+    "rating": 4.8,
+    "reviews": 3984,
+    "students": 12584,
+    "duration": "12 Hour",
+    "lessons": "36 Lessons",
+    "language": "English",
+    "shortDescription": "Improve your communication confidently.",
+    "longDescription": "This course helps you speak fluent English with confidence using real-life conversations, grammar basics, and speaking practice.",
+    "offers": [
+      "Live speaking practice sessions",
+      "Daily conversation exercises",
+      "Certificate after completion"
+    ],
+    "modules": [
+      "Introduction to English",
+      "Grammar Basics",
+      "Daily Conversations",
+      "Public Speaking",
+      "Final Assessment"
+    ],
+    "instructor": {
+      "name": "Huda Jansen",
+      "role": "Spoken English Trainer",
+      "image": "/image/eLearning.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "slug": "soft-skills",
+    "title": "Soft Skills Mastery",
+    "creator": "Rahul Sharma",
+    "rating": 4.7,
+    "reviews": 2876,
+    "students": 9800,
+    "duration": "10 Hour",
+    "lessons": "28 Lessons",
+    "language": "English",
+    "shortDescription": "Build confidence and professional behavior.",
+    "longDescription": "Master communication skills, confidence building, teamwork, leadership, and workplace etiquette.",
+    "offers": [
+      "Personality development sessions",
+      "Mock interviews",
+      "Certificate of completion"
+    ],
+    "modules": [
+      "Communication Skills",
+      "Confidence Building",
+      "Body Language",
+      "Leadership Skills"
+    ],
+    "instructor": {
+      "name": "Rahul Sharma",
+      "role": "Soft Skills Coach",
+      "image": "/image/eLearning.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "slug": "job-interview-mastery",
+    "title": "Job Interview Mastery",
+    "creator": "Amit Singh",
+    "rating": 4.6,
+    "reviews": 1902,
+    "students": 7600,
+    "duration": "8 Hour",
+    "lessons": "22 Lessons",
+    "language": "English",
+    "shortDescription": "Crack interviews with confidence.",
+    "longDescription": "Learn HR questions, resume building, mock interviews, and confidence techniques.",
+    "offers": [
+      "Mock interview practice",
+      "HR question bank",
+      "Resume templates"
+    ],
+    "modules": [
+      "Resume Building",
+      "HR Interview Questions",
+      "Mock Interviews",
+      "Confidence Tips"
+    ],
+    "instructor": {
+      "name": "Amit Singh",
+      "role": "Career Coach",
+      "image": "/image/eLearning.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "slug": "personality-development",
+    "title": "Personality Development",
+    "creator": "Priya Verma",
+    "rating": 4.7,
+    "reviews": 2150,
+    "students": 8400,
+    "duration": "9 Hour",
+    "lessons": "30 Lessons",
+    "language": "English",
+    "shortDescription": "Improve personality and self-image.",
+    "longDescription": "Enhance confidence, communication, mindset, and personal growth techniques.",
+    "offers": [
+      "Self-confidence training",
+      "Mindset coaching",
+      "Certificate"
+    ],
+    "modules": [
+      "Self Awareness",
+      "Confidence Boosting",
+      "Positive Mindset",
+      "Public Interaction"
+    ],
+    "instructor": {
+      "name": "Priya Verma",
+      "role": "Personality Coach",
+      "image": "/image/eLearning.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "slug": "public-speaking",
+    "title": "Public Speaking Mastery",
+    "creator": "Huda Jansen",
+    "rating": 4.9,
+    "reviews": 3100,
+    "students": 11200,
+    "duration": "7 Hour",
+    "lessons": "18 Lessons",
+    "language": "English",
+    "shortDescription": "Speak confidently in front of people.",
+    "longDescription": "Overcome stage fear and deliver impactful speeches with confidence.",
+    "offers": [
+      "Stage fear removal",
+      "Speech practice",
+      "Certificate"
+    ],
+    "modules": [
+      "Stage Fear Control",
+      "Voice Modulation",
+      "Speech Practice"
+    ],
+    "instructor": {
+      "name": "Huda Jansen",
+      "role": "Public Speaking Trainer",
+      "image": "/image/eLearning.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "slug": "business-communication",
+    "title": "Business Communication",
+    "creator": "Rahul Sharma",
+    "rating": 4.6,
+    "reviews": 1750,
+    "students": 6200,
+    "duration": "6 Hour",
+    "lessons": "16 Lessons",
+    "language": "English",
+    "shortDescription": "Professional workplace communication.",
+    "longDescription": "Learn email writing, meetings, presentations, and corporate communication.",
+    "offers": [
+      "Email writing practice",
+      "Meeting communication",
+      "Certificate"
+    ],
+    "modules": [
+      "Professional Emails",
+      "Meeting Skills",
+      "Corporate Etiquette"
+    ],
+    "instructor": {
+      "name": "Rahul Sharma",
+      "role": "Corporate Trainer",
+      "image": "/image/eLearning.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "slug": "english-grammar",
+    "title": "English Grammar Foundation",
+    "creator": "Amit Singh",
+    "rating": 4.5,
+    "reviews": 1400,
+    "students": 5300,
+    "duration": "10 Hour",
+    "lessons": "40 Lessons",
+    "language": "English",
+    "shortDescription": "Strong grammar basics.",
+    "longDescription": "Learn tense, sentence structure, voice, and grammar rules easily.",
+    "offers": [
+      "Grammar exercises",
+      "Practice worksheets",
+      "Certificate"
+    ],
+    "modules": [
+      "Tenses",
+      "Sentence Formation",
+      "Active & Passive Voice"
+    ],
+    "instructor": {
+      "name": "Amit Singh",
+      "role": "English Grammar Expert",
+      "image": "/image/eLearning.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "slug": "leadership-skills",
+    "title": "Leadership Skills",
+    "creator": "Priya Verma",
+    "rating": 4.7,
+    "reviews": 1680,
+    "students": 6900,
+    "duration": "8 Hour",
+    "lessons": "20 Lessons",
+    "language": "English",
+    "shortDescription": "Become a confident leader.",
+    "longDescription": "Learn leadership mindset, team handling, and decision making.",
+    "offers": [
+      "Leadership mindset",
+      "Team handling skills",
+      "Certificate"
+    ],
+    "modules": [
+      "Leadership Basics",
+      "Team Management",
+      "Decision Making"
+    ],
+    "instructor": {
+      "name": "Priya Verma",
+      "role": "Leadership Coach",
+      "image": "/image/eLearning.jpg"
+    }
+  },
+  {
+    "id": 9,
+    "slug": "communication-for-students",
+    "title": "Communication Skills for Students",
+    "creator": "Rahul Sharma",
+    "rating": 4.6,
+    "reviews": 1200,
+    "students": 4800,
+    "duration": "6 Hour",
+    "lessons": "15 Lessons",
+    "language": "English",
+    "shortDescription": "Communication for academic success.",
+    "longDescription": "Improve speaking, confidence, and presentation skills for students.",
+    "offers": [
+      "Student-friendly lessons",
+      "Practice sessions",
+      "Certificate"
+    ],
+    "modules": [
+      "Basic Speaking",
+      "Classroom Communication",
+      "Presentation Skills"
+    ],
+    "instructor": {
+      "name": "Rahul Sharma",
+      "role": "Student Mentor",
+      "image": "/image/eLearning.jpg"
+    }
+  },
+  {
+    "id": 10,
+    "slug": "confidence-building",
+    "title": "Confidence Building Program",
+    "creator": "Amit Singh",
+    "rating": 4.8,
+    "reviews": 2100,
+    "students": 8900,
+    "duration": "7 Hour",
+    "lessons": "24 Lessons",
+    "language": "English",
+    "shortDescription": "Boost confidence in daily life.",
+    "longDescription": "Build self-confidence, positive mindset, and overcome fear.",
+    "offers": [
+      "Mindset coaching",
+      "Confidence exercises",
+      "Certificate"
+    ],
+    "modules": [
+      "Self Confidence",
+      "Positive Thinking",
+      "Fear Control"
+    ],
+    "instructor": {
+      "name": "Amit Singh",
+      "role": "Motivational Coach",
+      "image": "/image/eLearning.jpg"
+    }
+  }
+]
+
+
+
+}

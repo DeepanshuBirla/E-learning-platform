@@ -1,0 +1,144 @@
+{
+  "hero": {
+    "title": "Grow Your Skills with Online Learning",
+    "subtitle": "Learn Professional Skills, Spoken English, Soft Skills & Personality Development — anytime, anywhere.",
+    "primaryButton": {
+      "label": "Get Started",
+      "action": "/get-started"
+    },
+    "secondaryButton": {
+      "label": "Demo Class",
+      "action": "/demo-class"
+    },
+    "image": {
+      "src": "/image/eLearning.jpg",
+      "alt": "eLearning"
+    }
+  },
+
+  
+  "heroSlides": [
+    {
+      "title": "Grow Your Skills with Online Learning",
+      "subtitle": "Learn Professional Skills anytime, anywhere.",
+      "primaryButton": { "label": "Get Started", "action": "/get-started" },
+      "secondaryButton": { "label": "Demo Class", "action": "/demo-class" },
+      "image": {
+        "src": "/image/eLearning.jpg",
+        "alt": "Online Learning"
+      }
+    },
+    {
+      "title": "Master Spoken English & Soft Skills",
+      "subtitle": "Boost confidence, communication & career growth.",
+      "primaryButton": { "label": "View Courses", "action": "/courses" },
+      "secondaryButton": { "label": "Free Demo", "action": "/demo-class" },
+      "image": {
+        "src": "/image/spoken.jpg",
+        "alt": "Spoken English"
+      }
+    },
+    {
+      "title": "Prepare for Interviews with Experts",
+      "subtitle": "Crack interviews with mock sessions & guidance.",
+      "primaryButton": { "label": "Join Now", "action": "/courses" },
+      "secondaryButton": { "label": "Contact Us", "action": "/contact" },
+      "image": {
+        "src": "/image/job.jpg",
+        "alt": "Interview Preparation"
+      }
+    }
+  ],
+
+  "instructorsSection": {
+    "title": "Meet Our Instructors",
+    "items": [
+      {
+        "name": "Rahul Sharma",
+        "role": "Spoken English Trainer",
+        "description": "Expert in English communication with 5+ years experience.",
+        "image": "/image/eLearning.jpg"
+      },
+      {
+        "name": "Priya Verma",
+        "role": "Soft Skills Mentor",
+        "description": "Specialist in personality development and career growth.",
+        "image": "/image/job.jpeg"
+      },
+      {
+        "name": "Amit Singh",
+        "role": "Motivational Coach",
+        "description": "Inspires students with powerful coaching sessions.",
+        "image": "/image/eLearning.jpg"
+      },
+      {
+        "name": "Amit Singh",
+        "role": "Motivational Coach",
+        "description": "Inspires students with powerful coaching sessions.",
+        "image": "/image/eLearning.jpg"
+      },
+      {
+        "name": "Amit Singh",
+        "role": "Motivational Coach",
+        "description": "Inspires students with powerful coaching sessions.",
+        "image": "/image/eLearning.jpg"
+      },
+      {
+        "name": "Ashutosh Kumar Jha",
+        "role": "Motivational Coach",
+        "description": "Inspires students with powerful coaching sessions.",
+        "image": "/image/eLearning.jpg"
+      }
+    ]
+  },
+
+  "whyChooseSection": {
+    "title": "Why Choose eLearn?",
+    "items": [
+      {
+        "title": "Expert Instructors",
+        "description": "Learn from certified mentors and industry experts."
+      },
+      {
+        "title": "Structured Courses",
+        "description": "Well-designed modules with step-by-step learning."
+      },
+      {
+        "title": "Certificates",
+        "description": "Get certificates after completing your course."
+      }
+    ]
+  },
+  "howItWorksSection": {
+    "title": "How Learning Works",
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "Register",
+        "description": "Sign up with your name, mobile & email."
+      },
+      {
+        "stepNumber": 2,
+        "title": "Enroll",
+        "description": "Choose your favorite course."
+      },
+      {
+        "stepNumber": 3,
+        "title": "Learn",
+        "description": "Watch videos, read notes & take tests."
+      },
+      {
+        "stepNumber": 4,
+        "title": "Get Certificate",
+        "description": "Receive your achievement certificate."
+      }
+    ]
+  },
+
+  "affiliateSection": {
+    "title": "Earn Money as an Affiliate",
+    "description": "Share your referral link and earn up to 30% commission on every course sale.",
+    "ctaLabel": "Become an Affiliate",
+    "ctaAction": "/affiliate"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "booksSection": {
+    "title": "Books & Study Materials",
+    "subtitle": "Learn deeply with well-structured books and notes"
+  },
+  "books": [
+    {
+      "id": 1,
+      "title": "Spoken English Mastery",
+      "slug": "spoken-english-mastery-book",
+      "category": "English",
+      "type": "book",
+      "price": 499,
+      "rating": 4.7,
+      "pages": 180,
+      "language": "English",
+      "shortDescription": "A complete guide to improve spoken English with real-life examples.",
+      "longDescription": "This book covers spoken English fundamentals, daily conversations, grammar basics, vocabulary building, and confidence techniques with exercises and practice sessions.",
+      "cover": "/image/eLearning.jpg",
+      "author": {
+        "name": "Huda Jansen",
+        "experience": "7+ Years",
+        "image": "/image/instructors/huda.jpg"
+      },
+      "features": [
+        "Beginner friendly",
+        "Real-life conversation examples",
+        "Practice exercises",
+        "Grammar + speaking focus",
+        "Printable PDF"
+      ],
+      "format": "PDF",
+      "delivery": "Instant Download",
+      "available": true
+    },
+    {
+      "id": 2,
+      "title": "English Grammar Simplified",
+      "slug": "english-grammar-simplified",
+      "category": "Grammar",
+      "type": "book",
+      "price": 399,
+      "rating": 4.6,
+      "pages": 220,
+      "language": "English",
+      "shortDescription": "Understand English grammar in a simple and practical way.",
+      "longDescription": "This book explains tenses, parts of speech, sentence formation, and common grammar mistakes with easy explanations and examples.",
+      "cover": "/image/eLearning.jpg",
+      "author": {
+        "name": "Amit Verma",
+        "experience": "10+ Years",
+        "image": "/image/instructors/amit.jpg"
+      },
+      "features": [
+        "Easy explanations",
+        "Examples with answers",
+        "Common mistakes covered",
+        "Perfect for students & job seekers"
+      ],
+      "format": "PDF",
+      "delivery": "Instant Download",
+      "available": true
+    },
+    {
+      "id": 3,
+      "title": "Interview Preparation Handbook",
+      "slug": "interview-preparation-handbook",
+      "category": "Interview",
+      "type": "book",
+      "price": 599,
+      "rating": 4.8,
+      "pages": 150,
+      "language": "English",
+      "shortDescription": "Crack HR and technical interviews with full confidence.",
+      "longDescription": "This handbook includes HR questions, self-introduction tips, body language, confidence building, and mock interview techniques.",
+      "cover": "/image/eLearning.jpg",
+      "author": {
+        "name": "Neha Sharma",
+        "experience": "8+ Years",
+        "image": "/image/instructors/neha.jpg"
+      },
+      "features": [
+        "HR interview questions",
+        "Self-introduction templates",
+        "Confidence building tips",
+        "Mock interview guidance"
+      ],
+      "format": "PDF",
+      "delivery": "Instant Download",
+      "available": true
+    }
+  ]
+}
